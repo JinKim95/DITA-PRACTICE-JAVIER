@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Manual for College Life</title>
+ <topicref href="Main%20Introduction%20Task.dita"/>
+ <topicref href="User%20Doc%20Task%201.dita"/>
+ <topicref href="User%20Doc%20Task%202.dita"/>
+ <topicref href="User%20Doc%20Task%203.dita"/>
+</map>

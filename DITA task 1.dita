@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_osp_fjw_mx">
+    <title>Becoming a social person</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>For a introvert who wants to find new friends, this guide is for you</p>
+        </context>
+        <prereq><p>You'll need certain things to meet new people.</p>
+            <ul>
+                <li>Openess</li>
+                <li>Talkitive</li>
+                <li>Enthusiasm</li>
+                <li>Never Give Up attitude</li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>The first step in becoming a friendly person</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
