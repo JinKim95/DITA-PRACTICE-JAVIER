@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_zpl_mmg_nx">
+    <title>How to Make a College Breakfast</title>
+    <shortdesc>Most college students will not have any time to have a complex breakfast.
+    These instructions are to help with creating the most simple breakfast that a person could make,
+    so they can still get the energy they need to work through the day!</shortdesc>
+    <taskbody>
+        <prereq><p>In order to complete this task, you will need:</p>
+        <ul>
+            <li>Milk</li>
+            <li>Cereal</li>
+            <li>Spoon</li>
+            <li>Bowl</li>
+            <li>Refrigerator</li>
+        </ul>
+        <div>Warning: If allergic to milk, do not use these instructions</div>
+        </prereq>
+        <section><title>Instructions</title></section>
+        <steps>
+            <step>
+                <cmd>Grab your spoon and bowl from the kitchen counter</cmd>
+            </step>
+            <step>
+                <cmd>Put your utensils close to you and somewhere accesible</cmd>
+            </step>
+            <step>
+                <cmd>Grab and open your cereal box</cmd>
+            </step>
+            <step>
+                <cmd>Pour the desired amount of cereal you want into the bowl</cmd>
+            </step>
+            <step>
+                <cmd>Get the milk out from the fridge</cmd>
+            </step>
+            <step>
+                <cmd>Open the milk by twisting the cap on the top</cmd>
+            </step>
+            <step>
+                <cmd>Pour the milk into the bowl with cereal with desired amount</cmd>
+            </step>
+            <step>
+                <cmd>Use your spoon to enjoy your cereal<image id="image_ux1_jvk_nx"/></cmd>
+            </step> 
+        </steps>
+    </taskbody>
+</task>
